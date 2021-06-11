@@ -7,7 +7,7 @@
 ### Insomnia ou Postman
 
 
-##Campos do DB {user, email, password}
+### Campos do DB {user, email, password}
 
 ### Rotas:
 ##### Cadastro: localhost:3000/auth/register
